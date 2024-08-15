@@ -1,6 +1,7 @@
-# Adversarially Robust Few-shot Named Entity Recognition via Variational Prototype-Augmented Learning
+# Adversity-aware Few-shot Named Entity Recognition via Augmentation Learning
 
-RVPA is a Variational Prototype-Augmented Learning model. It designed to retrieve and reinforce entity prototypes resilient to adversarial inference, thereby enhancing cross-domain semantic coherence.
+ALL is a Variational Prototype-Augmented Learning model. It designed to retrieve and reinforce entity prototypes resilient to adversarial inference, thereby enhancing cross-domain semantic coherence.
+
 
 ## Requirement
 	numpy  
